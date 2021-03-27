@@ -45,7 +45,7 @@ Maintenant, allez-y et placez le dossier des thèmes téléchargés `` wp-Theme 
 ## Installation manuelle:
 
 - Allez-y et activez le thème via le menu Thèmes de Wordpress
-- Vérifier l'apparence -> option `` EST-SB'' pour changer les options du thème
+- Vérifier l'apparence -> option `` THEME EST-SB'' pour changer les options du thème
 
 ## Navigateurs pris en charge:
 
