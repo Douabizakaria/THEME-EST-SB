@@ -1,57 +1,59 @@
-# THEME-EST-SB
-# A WordPress School Design
 
-The current project is a theme available for wordpress users wishing to have an out of the box functional website running on wordpress, a fully responsive and dynamic theme that works across platforms.
+# THÈME-EST-SB
+# Une conception d'école WordPress
 
-#### Contributors :
-- DOUABI Zakaria       [Email Me](mailto:ezakaria.douabi11@outlook.fr)
-- HADDOUCH Mohammed [Email Me](mailto:Haddouchmohammed5@gmail.com)
+Le projet actuel est un thème disponible pour les utilisateurs de wordpress souhaitant avoir un site Web fonctionnel prêt à l'emploi fonctionnant sur wordpress, un thème entièrement réactif et dynamique qui fonctionne sur toutes les plates-formes.
+
+#### Contributeurs:
+
+- DOUABI Zakaria        [Email Me](mailto:ezakaria.douabi11@outlook.fr)
+- HADDOUCH Mohammed  [Email Me](mailto:Haddouchmohammed5@gmail.com)
 - AMAL Yassine
 
-## Prerequisites :
+## Conditions préalables :
 
 - [WordPress](https://wordpress.com/)
 - [IDE Visual Studio Code](https://code.visualstudio.com/)
 - [Web Server](https://www.apachefriends.org/)
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 
-## Installation :
-#### Linux :
-After having setup the prerequisites, You can install your xampp using the following command in the console
-```bash
-chmod +x xampp-linux-x"64/32"-x.x.x-x-installer.run
+## Installation:
+#### Linux:
+Après avoir configuré les prérequis, vous pouvez installer votre xampp en utilisant la commande suivante dans la console
+`` bash
+chmod + x xampp-linux-x "64/32" -x.x.x-x-installer.run
 sudo ./xampp-linux-x"64/32"-x.x.x-x-installer.run
-```
-You can now Install phpMyAdmin
-```bash
-sudo apt-get update
-sudo apt-get install phpmyadmin php-mbstring php-gettext
-```
-- For the Server selection , choose XAMPP
-- select <b>yes</b> when asked whether to use ```dbconfig-common```
-- Go ahead and confirm the password for ```phpMyAdmin```
+''
+Vous pouvez maintenant installer phpMyAdmin
+`` bash
+sudo apt-get mise à jour
+sudo apt-get installer phpmyadmin php-mbstring php-gettext
+''
+- Pour la sélection du serveur, choisissez XAMPP
+- sélectionnez <b> oui </b> lorsqu'on vous demande s'il faut utiliser `` `` dbconfig-common```
+- Allez-y et confirmez le mot de passe pour `` phpMyAdmin```
 
-Now go ahead and restart your XAMPP service
-and check the following browsers link :
-```
-https://localhost/phpmyadmin
-```
-Enter your previous informations entered during the installation process
+Maintenant, allez-y et redémarrez votre service XAMPP
+et vérifiez le lien des navigateurs suivant:
+''
+https: // localhost / phpmyadmin
+''
+Entrez vos informations précédentes saisies lors du processus d'installation
 
-Now go ahead and place the downloaded themes ```wp-Theme``` folder to the ```/wp-content/themes/``` directory inside of Wordpress Main directory.
+Maintenant, allez-y et placez le dossier des thèmes téléchargés `` wp-Theme '' dans le répertoire `` `` / wp-content / themes / `` à l'intérieur du répertoire principal de Wordpress.
 
-## Manual Installation :
+## Installation manuelle:
 
-- Go ahead and Activate the Theme through the Themes menu in Wordpress
-- Check Appearance -> ```School-Theme``` option to change the theme options
+- Allez-y et activez le thème via le menu Thèmes de Wordpress
+- Vérifier l'apparence -> option `` EST-SB'' pour changer les options du thème
 
-## Supported Browsers :
+## Navigateurs pris en charge:
 
-Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
+ Safari,Mozilla Firefox, Google Chrome, IE 10,9,8,7
 
-## Visuals of the Project
+## Visuels du projet
 
-### Further Website Pictures
+### Autres images du site Web
 ![alt text](https://i.imgur.com/RbnoaiO.png)
 
 ![alt text](https://i.imgur.com/Ed8jFKK.png)
