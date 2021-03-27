@@ -52,7 +52,8 @@ Maintenant, allez-y et placez le dossier des thèmes téléchargés `` wp-Theme 
  Safari,Mozilla Firefox, Google Chrome, IE 10,9,8,7
 
 ## Visuels du projet
-
+### Présentation vidéo du thème
+vous la trouver dans la branche main
 ### Autres images du site Web
 ![alt text](https://i.imgur.com/RbnoaiO.png)
 
