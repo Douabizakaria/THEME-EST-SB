@@ -56,8 +56,6 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 ![alt text](https://i.imgur.com/Ed8jFKK.png)
 
-![alt text](https://i.imgur.com/wqMhl2A.png)
-
 ![alt text](https://i.imgur.com/Jm2dCaF.png)
 
 ![alt text](https://i.imgur.com/rxpj0v1.png)
