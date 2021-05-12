@@ -7,8 +7,6 @@ Le projet actuel est un thème disponible pour les utilisateurs de wordpress sou
 #### Contributeurs:
 
 - DOUABI Zakaria        [Email Me](mailto:ezakaria.douabi11@outlook.fr)
-- HADDOUCH Mohammed  [Email Me](mailto:Haddouchmohammed5@gmail.com)
-- AMAL Yassine
 
 ## Conditions préalables :
 
